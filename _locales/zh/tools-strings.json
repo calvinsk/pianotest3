@@ -1,0 +1,10 @@
+{
+  "piano_keypad|block": "工具",
+  "piano_keypad.RGB_Program|block": "七彩灯",
+  "piano_keypad.RGB_Program_Close|block": "关闭七彩灯",  
+
+  "piano_keypad.Music_Handle|block": "音乐播放|%index",
+  "piano_keypad.Touch|block": "音乐触摸返回",
+  "piano_keypad.TouchButton|block" : "音乐按钮|%value",
+  "piano_keypad.PlayPiano|block" : "弹钢琴|音调 %value"
+}
